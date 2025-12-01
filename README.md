@@ -22,3 +22,4 @@ This project detects hate speech in texts, using a dataset of more than 2,000 tw
 
 **Model Comparison:** Evaluates performance differences between models, but Challenges in definitively determining the most effective model; nuanced results not fully addressed.   
 
+***Supervised by dr Zaghari***
