@@ -8,7 +8,9 @@ This project detects hate speech in texts, using a dataset of more than 2,000 tw
 
 **Dataset:** More than 2,000 tweets labeled as hate speech, offensive, or neither. Methods Used:   
 
-• Random Forest • XGBoost   
+• Random Forest   
+
+• XGBoost   
 
 • Neural Network   
 
