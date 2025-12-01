@@ -4,7 +4,7 @@ This project detects hate speech in texts, using a dataset of more than 2,000 tw
 
 ##summary
 
-**Project Goal:** Detect hate speech in social media texts.
+**Project Goal:** Detect hate speech in social media texts. \n
 **Dataset:** More than 2,000 tweets labeled as hate speech, offensive, or neither. Methods Used:
 • Random Forest • XGBoost
 • Neural Network
